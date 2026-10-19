@@ -1,6 +1,6 @@
 # SK DEV TEAM — Public Website
 
-Responsive agency website built with Next.js App Router, React, TypeScript, and Tailwind CSS v4.
+Premium, responsive software agency website built with Next.js App Router, React, TypeScript, and Tailwind CSS v4.
 
 ## Included
 - Home, About, Services, Portfolio, project detail pages, Pricing, Contact, FAQ, Privacy Policy, and Terms.
@@ -25,7 +25,7 @@ npm run build
 ```
 
 ## Deploy to Vercel
-Import this repository into Vercel with the Next.js preset. Set `NEXT_PUBLIC_SITE_URL` to the final canonical production URL before launch. The default URL is a placeholder and should be confirmed.
+Import this repository into Vercel with the Next.js preset. Set `NEXT_PUBLIC_SITE_URL` to the final canonical production URL before launch. The default canonical URL is `https://sk-dev-team.vercel.app`; set `NEXT_PUBLIC_SITE_URL` if deploying to a different domain.
 
 ## Before launch
 - Confirm the canonical domain and review all external project links.
